@@ -1,0 +1,5 @@
+{
+  "name": "ImpactQuest",
+  "description": "The 'TurboTax for Program Design' - A gamified NGO program design engine powered by Gemini AI that turns natural language into structured Logical Frameworks.",
+  "requestFramePermissions": []
+}
